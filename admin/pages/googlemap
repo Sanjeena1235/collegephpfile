@@ -1,0 +1,102 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 27.6842822,
+                    "lng": 85.34564379999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.68563202989272,
+                        "lng": 85.34699362989271
+                    },
+                    "southwest": {
+                        "lat": 27.68293237010728,
+                        "lng": 85.34429397010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "5af069cc99e488a96da459f4d8e0364a75534df2",
+            "name": "College of Information Technology and Engineering",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2322,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104914980990950011073/photos\">WrackAce Marz</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAGr0-_XgGrxp5KlAATfwj4ln69wmaraAeNuikGxfh5mb2Z4eCfVx3bRFk9GYTNI-VeW93MeluQBnoFAyfZyN3YPCg84yXUulK_aWNMbQIB-I7rgk8_Dh4UYBpeKHXA4DAEhBN6Ns2FNHoLKxWoPCsUsj5GhRSjcTg43yJ3eznnAFvCzgApHWWaA",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJxTRmbo0Z6zkRlyuEyLWnHOQ",
+            "plus_code": {
+                "compound_code": "M8MW+P7 Kathmandu, Nepal",
+                "global_code": "7MV7M8MW+P7"
+            },
+            "rating": 4,
+            "reference": "CmRbAAAAid854qm7iq2gWur1HTzOsfC0Ke2e2r2JXf6wV17iU6niVdj04W68ut48oZeHcsE2PMHVcg_beXSs4TMhBwfXT3Or07AvpwHn4GhAOgkMh0u1gbx8G-T0ssw9BeoLIU96EhAudy6yScOe3WmAk9mD4Y_zGhQIxCgDpHCEyOaEvbOz8vWVlvERyg",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "Kathmandu"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 27.6706806,
+                    "lng": 85.3401698
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.67203042989271,
+                        "lng": 85.34151962989272
+                    },
+                    "southwest": {
+                        "lat": 27.66933077010727,
+                        "lng": 85.33881997010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "3035fc440a16ad9dbcd28118ccf3b30c09140424",
+            "name": "Kathford Int'l College of Engineering and Management",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111461235251575204770/photos\">nabin khadka</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA_HsaV6TaKEM6ny6zsIXop-l6i1MV55Sc5BopYs-x2DAH8XFNWfGMBwrXbhO0jiVMyNeQSFV_BmDDBB2UHGrjlE4oa7yY84AOWakxHDZ8g-3Csqqv8crApkpwydmK2I59EhA2A9V5NwjM8HKaiVer_AqPGhSCnZymcpv3LvYOXAqj0hbEQ6hInw",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJa-dD9-UZ6zkRYLVCcNC6jTY",
+            "plus_code": {
+                "compound_code": "M8CR+73 Patan, Nepal",
+                "global_code": "7MV7M8CR+73"
+            },
+            "rating": 3.5,
+            "reference": "CmRbAAAAo4swScBFsgYsMNGmBxIk1M5Jg4xDVKmg25koiMyBL7NJhMTevKeDcefiRqitY8Q7eFKS_wAgDS_utLXl1N03QPTiS030Ut9PnI6lqEDs4EovfmsDmifX-PuvOrEc8EyAEhB1_ZA4h0g8DUcc0uyoFDwrGhRGz4IYQfd_2eyv3U4LER3ryHEGFQ",
+            "scope": "GOOGLE",
+            "types": [
+                "school",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "Patan"
+        }
+    ],
+    "status": "OK"
+}
